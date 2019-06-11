@@ -306,3 +306,4 @@ client.on('message', message => {
     message.channel.sendMessage("*** Pour ajouter des choses a dire contact Joseph Goebbels. ***")
   }
 });
+
