@@ -7,7 +7,7 @@ const client = new Discord.Client();
 
 
 
-let prefix = "§"
+let prefix = ":"
 let liste = "Je connais : Merci, Dab, Cancer, Bouh, Credoz, Colin, ChrisRoumi, Boulhal, Adrien et Oualid."
 
 
@@ -18,7 +18,7 @@ client.on('ready', function () {
   console.log("Je suis connecté !");
 });
 
-client.login("NTg1ODA1NzQ3NDY4NjMyMDg0.XPlv3g.Xie-lunqG53SizSYwl4GTm-cDCo");
+client.login("NTg1ODA1NzQ3NDY4NjMyMDg0.XQAJVA.a-B8xyI_kQGZB1G_634Ue8Vm3HM");
 
 //arrivé personne
 client.on('guildMemberAdd', function (member) {
